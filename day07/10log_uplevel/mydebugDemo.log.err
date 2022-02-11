@@ -1,0 +1,4 @@
+[46] [2022-02-08 18:38:33] [main] [main.go] [ERROR] nihao 这是一条Error日志
+[47] [2022-02-08 18:38:33] [main] [main.go] [FATAL] nihao 这是一条Fatal日志 致命错误
+[46] [2022-02-08 18:38:33] [main] [main.go] [ERROR] nihao 这是一条Error日志
+[47] [2022-02-08 18:38:33] [main] [main.go] [FATAL] nihao 这是一条Fatal日志 致命错误
