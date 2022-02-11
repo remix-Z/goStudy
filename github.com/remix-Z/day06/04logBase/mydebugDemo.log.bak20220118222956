@@ -1,0 +1,12 @@
+[44] [2022-01-18 22:29:56] [main] [main.go] [ERROR] nihao 这是一条Error日志
+[45] [2022-01-18 22:29:56] [main] [main.go] [FATAL] nihao 这是一条Fatal日志 致命错误
+[41] [2022-01-18 22:29:56] [main] [main.go] [DEBUG] nihao 这是一条Debug日志
+[42] [2022-01-18 22:29:56] [main] [main.go] [INFO] nihao 这是一条Info日志
+[43] [2022-01-18 22:29:56] [main] [main.go] [WARNING] nihao 这是一条Warning日志
+[44] [2022-01-18 22:29:56] [main] [main.go] [ERROR] nihao 这是一条Error日志
+[45] [2022-01-18 22:29:56] [main] [main.go] [FATAL] nihao 这是一条Fatal日志 致命错误
+[41] [2022-01-18 22:29:56] [main] [main.go] [DEBUG] nihao 这是一条Debug日志
+[42] [2022-01-18 22:29:56] [main] [main.go] [INFO] nihao 这是一条Info日志
+[43] [2022-01-18 22:29:56] [main] [main.go] [WARNING] nihao 这是一条Warning日志
+[44] [2022-01-18 22:29:56] [main] [main.go] [ERROR] nihao 这是一条Error日志
+[45] [2022-01-18 22:29:56] [main] [main.go] [FATAL] nihao 这是一条Fatal日志 致命错误
